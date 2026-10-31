@@ -83,7 +83,7 @@ PostCSS – CSS processing
 Hosted on Vercel for instant global availability:
 
 # Clone the repo
-git clone https://github.com/msohaib-dev/landing_page.git
+git clone https://github.com/co-obalt/deltarq-service
 
 # Install dependencies
 npm install
@@ -94,9 +94,6 @@ npm start
 # Build for production
 npm run build
 
-
-After building, the production-ready files are served via Vercel:
-https://landing-page-lyart-theta-72.vercel.app
 
 📞 Contact & Client Engagement
 
