@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="footer-main">
           <div className="footer-brand">
             <img 
-              src="https://i.ibb.co/qb9yd8k/deltar-w-m-removebg-preview.png" 
+              src="https://ibb.co/cj9NPm4" 
               alt="DELTARQ" 
               className="footer-logo"
             />
