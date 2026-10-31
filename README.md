@@ -12,7 +12,7 @@ This repository contains the landing page for DELTARQ, built with React, Tailwin
 🎯 Live Demo
 
 Check out the live project here:
-https://landing-page-lyart-theta-72.vercel.app
+https://deltarq-service.vercel.app/
 
 🛠 Services Highlighted
 
